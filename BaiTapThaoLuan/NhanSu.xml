@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLNS>
+  <NhanVien>
+    <MaNV>nv02</MaNV>
+    <TenNV>2</TenNV>
+    <NamSinh>2</NamSinh>
+    <DiaChi>2</DiaChi>
+    <SDT>3</SDT>
+    <PhongBan>2</PhongBan>
+    <ChucVu>2</ChucVu>
+    <Luong>2</Luong>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>nv01</MaNV>
+    <TenNV>1</TenNV>
+    <NamSinh>1</NamSinh>
+    <DiaChi>1</DiaChi>
+    <SDT>1</SDT>
+    <PhongBan>1</PhongBan>
+    <ChucVu>1</ChucVu>
+    <Luong>1</Luong>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>nv01</MaNV>
+    <TenNV>C</TenNV>
+    <NamSinh>1998</NamSinh>
+    <DiaChi>HN</DiaChi>
+    <SDT>123</SDT>
+    <PhongBan>AC</PhongBan>
+    <ChucVu>cong nhan</ChucVu>
+    <Luong>200</Luong>
+  </NhanVien>
+</QLNS>
